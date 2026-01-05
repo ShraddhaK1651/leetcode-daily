@@ -17,6 +17,7 @@ class Solution {
         }
        }
        if(cnt%2==0)return sum;
-        return sum-(2*smallest);
+        return sum-(2*smallest); 
     }
 }
+/*Because the smallest value is already added once as +smallest in  the absolute sum, but it must finally appear as −smallest, so its contribution changes by (+smallest) − (−smallest) = 2 × smallest, which is why we subtract 2 × smallest, not just smallest. */
