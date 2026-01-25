@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0414-third-maximum-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
