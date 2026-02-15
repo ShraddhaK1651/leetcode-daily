@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0414-third-maximum-number) |
@@ -64,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
