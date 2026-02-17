@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 ## String
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
