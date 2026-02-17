@@ -9,6 +9,7 @@ class Solution {
         if(dp[n]!=0){
             return dp[n];
         }
-        return findFib(n-1,dp)+findFib(n-2,dp);
+        dp[n]= findFib(n-1,dp)+findFib(n-2,dp);
+        return dp[n];
     }
 }
