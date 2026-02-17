@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1975-maximum-matrix-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
