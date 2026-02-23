@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1975-maximum-matrix-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1975-maximum-matrix-sum) |
 | [2895-minimum-processing-time](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2895-minimum-processing-time) |
 ## Matrix
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Queue
 |  |
 | ------- |
