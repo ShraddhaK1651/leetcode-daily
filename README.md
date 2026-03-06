@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0443-string-compression) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1143-longest-common-subsequence) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1663-smallest-string-with-a-given-numeric-value) |
