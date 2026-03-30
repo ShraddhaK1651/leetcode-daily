@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0198-house-robber) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0040-combination-sum-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
