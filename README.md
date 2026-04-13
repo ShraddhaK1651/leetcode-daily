@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0040-combination-sum-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0414-third-maximum-number) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
