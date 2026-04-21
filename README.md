@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0064-minimum-path-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1975-maximum-matrix-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1975-maximum-matrix-sum) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0064-minimum-path-sum) |
