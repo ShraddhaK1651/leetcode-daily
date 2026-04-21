@@ -5,8 +5,8 @@ class Solution {
         for(int i=0;i<n;i++){
             if(i>farthest)return false;
             farthest=Math.max(farthest,i+nums[i]);
-            if(farthest>=n) return true;
+            if(i>=n-1)return true;
         }
-    return true;
+        return true;
     }
 }
