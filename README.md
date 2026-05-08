@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0063-unique-paths-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0443-string-compression) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0583-delete-operation-for-two-strings) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0040-combination-sum-ii) |
