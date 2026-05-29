@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1975-maximum-matrix-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2895-minimum-processing-time](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2895-minimum-processing-time) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
