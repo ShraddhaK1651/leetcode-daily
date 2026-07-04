@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0063-unique-paths-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0063-unique-paths-ii) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
