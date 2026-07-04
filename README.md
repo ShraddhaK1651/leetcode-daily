@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0213-house-robber-ii) |
@@ -99,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Bit Manipulation
