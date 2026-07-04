@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2553-separate-the-digits-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
