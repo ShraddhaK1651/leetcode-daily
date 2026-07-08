@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0724-find-pivot-index) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
