@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0022-generate-parentheses) |
+| [0205-isomorphic-strings](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0443-string-compression) |
