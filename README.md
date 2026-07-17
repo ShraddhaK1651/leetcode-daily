@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0118-pascals-triangle) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
 | [1975-maximum-matrix-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1975-maximum-matrix-sum) |
 ## Sorting
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0090-subsets-ii) |
 ## Combinatorics
 |  |
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
