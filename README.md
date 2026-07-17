@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0322-coin-change) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0131-palindrome-partitioning) |
 ## Combinatorics
 |  |
 | ------- |
