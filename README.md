@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1975-maximum-matrix-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2574-left-and-right-sum-differences) |
 | [2895-minimum-processing-time](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2895-minimum-processing-time) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
 | ------- |
