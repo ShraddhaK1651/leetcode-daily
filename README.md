@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
