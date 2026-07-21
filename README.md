@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1975-maximum-matrix-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2553-separate-the-digits-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
