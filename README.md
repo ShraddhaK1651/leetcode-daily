@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0523-continuous-subarray-sum) |
