@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0242-valid-anagram) |
