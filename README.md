@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0322-coin-change) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0443-string-compression) |
