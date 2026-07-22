@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0040-combination-sum-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0125-valid-palindrome) |
