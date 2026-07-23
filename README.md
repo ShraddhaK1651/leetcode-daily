@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0922-sort-array-by-parity-ii) |
+| [0986-interval-list-intersections](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0986-interval-list-intersections) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0021-merge-two-sorted-lists) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
