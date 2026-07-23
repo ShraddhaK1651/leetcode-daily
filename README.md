@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
@@ -353,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
