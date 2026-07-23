@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0922-sort-array-by-parity-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1975-maximum-matrix-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1975-maximum-matrix-sum) |
 | [2895-minimum-processing-time](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2895-minimum-processing-time) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
+| [0881-boats-to-save-people](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0922-sort-array-by-parity-ii) |
 | [2895-minimum-processing-time](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2895-minimum-processing-time) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0922-sort-array-by-parity-ii) |
 | [0986-interval-list-intersections](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0986-interval-list-intersections) |
