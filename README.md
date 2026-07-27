@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0918-maximum-sum-circular-subarray) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Rolling Hash
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1310-xor-queries-of-a-subarray) |
@@ -360,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0918-maximum-sum-circular-subarray) |
 ## Trie
 |  |
@@ -370,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Bucket Sort
 |  |
 | ------- |
