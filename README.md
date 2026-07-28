@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
