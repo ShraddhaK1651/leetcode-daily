@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0389-find-the-difference) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Dynamic Programming
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0443-string-compression) |
