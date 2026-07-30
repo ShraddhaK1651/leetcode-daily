@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0643-maximum-average-subarray-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
