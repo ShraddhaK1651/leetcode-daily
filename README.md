@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0986-interval-list-intersections) |
+| [1002-find-common-characters](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1310-xor-queries-of-a-subarray) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0609-find-duplicate-file-in-system) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1002-find-common-characters](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [0609-find-duplicate-file-in-system](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0680-valid-palindrome-ii) |
+| [1002-find-common-characters](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1208-get-equal-substrings-within-budget) |
