@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0680-valid-palindrome-ii) |
 | [1002-find-common-characters](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1208-get-equal-substrings-within-budget) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
