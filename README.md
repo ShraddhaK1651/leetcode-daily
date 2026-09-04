@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1975-maximum-matrix-sum) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2574-left-and-right-sum-differences) |
 | [2895-minimum-processing-time](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2895-minimum-processing-time) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1695-maximum-erasure-value) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShraddhaK1651/leetcode-daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Rolling Hash
 |  |
 | ------- |
